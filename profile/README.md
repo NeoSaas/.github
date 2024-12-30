@@ -29,7 +29,7 @@ We’re always looking for talented individuals and collaborators who share our 
 
 ## Contact
 
-For inquiries, partnership opportunities, or feedback, reach out to us at [info@neosaas.net](mailto:info@neosaas.net) or visit our website at [NeoSaaS](https://www.neosaas.net/).
+For inquiries, partnership opportunities, or feedback, reach out to us at [support@neosaas.net](mailto:support@neosaas.net) or visit our website at [NeoSaaS](https://www.neosaas.net/).
 
 ---
 
