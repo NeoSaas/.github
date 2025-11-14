@@ -9,40 +9,23 @@
 
 # Welcome to NeoSaaS
 
-NeoSaaS is dedicated to revolutionizing the way businesses harness the power of Software as a Service (SaaS). By leveraging cutting-edge technology and a user-first approach, we create scalable, robust, and innovative solutions tailored to meet modern business challenges.
+At Neosaas we want to make your app or idea a reality or if you already have an app or website we'd love to help you bring it closer to your vision.
 
 ## Who We Are
 
-NeoSaaS is a team of passionate developers, designers, and innovators committed to building cloud-based software solutions that empower businesses. With a focus on reliability, security, and scalability, we strive to simplify complex workflows and help organizations achieve their goals efficiently.
+Neosaas is a team of 3, 2 developers and a sales manager. We're based out of Detroit, MI and Winter Park, FL. The three of us have a strong passion for technology and what software can do to help your business succeed and stand out.
 
 ## What We Do
 
 At NeoSaaS, we specialize in:
 
-- **Custom SaaS Development**: Creating tailored solutions that align with unique business requirements.
-- **AI-Driven Tools**: Harnessing the power of artificial intelligence to deliver smarter workflows and enhanced decision-making.
-- **Cloud-Native Applications**: Building scalable and secure applications designed for the cloud.
-- **User-Centric Design**: Delivering intuitive interfaces and experiences that make complex software simple.
-
-## Mission
-
-Our mission is to empower businesses through innovative, efficient, and user-friendly SaaS products that drive growth and success.
-
-## Get Involved
-
-We’re always looking for talented individuals and collaborators who share our vision of creating world-class SaaS solutions. Here’s how you can get involved:
-
-- **Collaborate with Us**: Check out our repositories and contribute to our projects.
-- **Join Our Team**: Explore opportunities to work with us.
-- **Connect with Us**: Have a question or an idea? Feel free to reach out.
+- **Mobile App Development**: We love building mobile apps from the ground up, tailored to your idea and end goal (Check out [Servd - Find and Hire](https://www.joinservd.com/) on the app store).
+- **Web Apps and Web APIs**: Websites, dashboards, platforms or the infrastructure for your project.
+- **Automation**: Automate processes for daily tasks or outreach.
 
 ## Contact
 
 For inquiries, partnership opportunities, or feedback, reach out to us at [support@neosaas.net](mailto:support@neosaas.net) or visit our website at [NeoSaaS](https://www.neosaas.net/).
-
----
-
-Let’s build the future of SaaS, together!
 
 
 
