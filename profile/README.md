@@ -7,7 +7,7 @@
 ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                                         
 ```
 
-# Welcome to NeoSaaS
+# Welcome to Neosaas
 
 At Neosaas we want to make your app or idea a reality or if you already have an app or website we'd love to help you bring it closer to your vision.
 
